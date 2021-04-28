@@ -1,0 +1,7 @@
+## Interface: 11307
+## Title: Item Database
+## Author: Jon Hutchings
+## Version: 0.0.1
+## Notes: Item Database for lookups by item name
+
+core.lua
